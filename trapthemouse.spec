@@ -3,7 +3,7 @@ Version:	0.0.1
 Release:	1%{?dist}
 Summary:	Simple puzzle game. Set the tiles to block the mouse's reaching the cheese.
 Group:
-License:	BSD
+License:	Apache-2.0
 URL:
 Source0:
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
